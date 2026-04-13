@@ -36,7 +36,9 @@ const Navbar = () => {
           <a href="#contact" className={navClass}>
             Contact
           </a>
-          <a
+          <a 
+            href="/src/assets/RAJAT_Resume04.pdf"
+            download
             type="button"
             className="bg-[#2DD4BF] hover:bg-[#14B8A6] text-black px-6 py-2 rounded-full font-semibold text-sm transition"
           >

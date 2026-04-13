@@ -34,7 +34,7 @@ const ContactSection = () => {
 
           {/* Resume Button */}
           <a
-            href="/RAJAT_Resume04.pdf"
+            href="/src/assets/RAJAT_Resume04.pdf"
             download
             className="w-full inline-flex items-center justify-center gap-2 bg-[#2DD4BF] hover:bg-[#14B8A6] text-black px-6 py-4 rounded-full font-semibold transition shadow-[0_0_20px_#2DD4BF33]"
           >
