@@ -42,7 +42,7 @@ const projects = [
       <section id="work" className="scroll-mt-24 bg-[#0F172A] text-white py-20">
         <div className="max-w-7xl mx-auto px-4 md:px-8">
   
-          {/* 🔥 Heading */}
+          {/* Heading */}
           <div className="mb-16">
             <p className="text-[#2DD4BF] text-xs tracking-widest mb-2">
               WORK THAT SHIPPED
@@ -53,7 +53,7 @@ const projects = [
             </h2>
           </div>
   
-          {/* 🔥 Projects */}
+          {/* Projects */}
           <div className="space-y-10">
             {projects.map((project, index) => (
               <div
